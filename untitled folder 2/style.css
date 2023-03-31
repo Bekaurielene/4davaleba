@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: o;
+}
+
+.card{
+    background-color: #FAF4EF;
+    border-bottom-left-radius: 20px;
+    height: 420px;
+    width: 366px;
+    margin-left: 537px;
+    margin-top: 270px;
+    padding-left: 30px;
+    padding-top: 25px;
+
+
+
+}
+   
